@@ -108,7 +108,7 @@ sh run.sh
 | 1 img/cls |  66.8 | 38.3 | 43.7 | 63.2 | 43.2 | 57.0 |
 | 10 img/cls | 72.0 | 41.3 | 47.0 | 69.2 | 48.6 | 67.3 |
 
-- Test accuracies (%) on Image-[A, B, C, D, E] (128 × 128 resolution) with TM under 1 img/cls.
+- Test accuracies (%) on ImageNet-[A, B, C, D, E] (128 × 128 resolution) with TM under 1 img/cls.
 
 | | ImageNet-A | ImageNet-B | ImageNet-C | ImageNet-D | ImageNet-E | 
 | :------: | :-----:  | :----: | :-----: | :----: | :----: |
