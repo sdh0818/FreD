@@ -2,7 +2,7 @@
 
 This repository contains an official PyTorch implementation for the paper "Frequency Domain-based Dataset Distillation" in NeurIPS 2023.
 
-**[Donghyeok Shin](https://aai.kaist.ac.kr/xe2/members_phdstudent/20976) \*, [Seungjae Shin](https://sites.google.com/view/seungjae-shin) \*, and Il-Chul Moon**   
+**[Donghyeok Shin](http://kaal.dsso.kr/bbs/board.php?bo_table=sub2_1&wr_id=8) \*, [Seungjae Shin](https://sites.google.com/view/seungjae-shin) \*, and Il-Chul Moon**   
 <sup> * Equal contribution </sup> <br>
 
 | [paper](https://arxiv.org/abs/2311.08819) | [slides](https://neurips.cc/media/neurips-2023/Slides/71874.pdf) |
