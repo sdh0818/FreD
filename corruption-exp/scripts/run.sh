@@ -7,7 +7,7 @@ subset="none"
 level=5
 ipc=1
 sh_file="run.sh"
-data_path="../../../../../../data/tlsehdgur0"
+data_path="../data"
 save_path="./results"
 synset_path="./trained_synset"
 
